@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "product_code": "123hh",
+    "product_name": "apple",
+    "product_description": "apple desc",
+    "product_unit_price": ".34",
+    "product_unit": "devices"
+  },
+  {
+    "id": 2,
+    "product_code": "123hd",
+    "product_name": "labtop",
+    "product_description": "labtop desc",
+    "product_unit_price": ".34",
+    "product_unit": "devices"
+  },
+  {
+    "id": 3,
+    "product_code": "123hc",
+    "product_name": "vitamin c",
+    "product_description": "vitamin desc",
+    "product_unit_price": ".34",
+    "product_unit": "medical tablets"
+  },
+  {
+    "id": 4,
+    "product_code": "123he",
+    "product_name": "strawberry",
+    "product_description": "starwberry desc",
+    "product_unit_price": ".34",
+    "product_unit": "fruits"
+  },
+  {
+    "id": 5,
+    "product_code": "123hf",
+    "product_name": "samsung",
+    "product_description": "sammsung desc",
+    "product_unit_price": ".34",
+    "product_unit": "devices"
+  }
+]
